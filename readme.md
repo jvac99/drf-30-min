@@ -2,9 +2,7 @@
 
 ## Iniciando com o Django Rest Framework, CRUD cliente.
 
-![get](im1.png)
-
-![put](im2.png)
+![get](crud.gif)
 
 ### 🛠 Tecnologias
 
